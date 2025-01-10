@@ -24,6 +24,5 @@ The Brain Tumor Detection Application is a cutting-edge solution built on machin
 ## Requirements
 
 - **Python 3.x** (with libraries like TensorFlow, Keras, NumPy)
-- **Node.js** (for running a local server for the front-end)
 
 
